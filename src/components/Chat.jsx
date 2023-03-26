@@ -15,6 +15,7 @@ const Chat = () => {
         <span>{data.user?.displayName}</span>
         <div className="chatIcons">
           <img src={Cam} alt="" />
+          {/* //chat code goes here */}
           {/* <img src={Add} alt="" /> */}
           {/* <img src={More} alt="" /> */}
         </div>
